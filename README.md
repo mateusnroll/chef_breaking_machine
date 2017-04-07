@@ -7,3 +7,4 @@ curl https://gist.githubusercontent.com/mateusnroll/1c8597f1e3ccef727eaee469be7d
 ```
 
 Original gist: https://gist.github.com/mateusnroll/1c8597f1e3ccef727eaee469be7d69f8
+If you are on CentOS, you might want to fix your locale: https://gist.github.com/mateusnroll/9b528b410ab13319307411d159e39478
